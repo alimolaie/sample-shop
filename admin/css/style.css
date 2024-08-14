@@ -1,0 +1,86 @@
+
+    body {
+        direction: rtl;
+        text-align: right;
+        overflow-x: hidden;
+        font-family: sans-serif;
+    }
+
+    a {
+    text-decoration: none;
+    color: #000;
+ }
+
+a:hover {
+    text-decoration: none;
+    color: #000;
+}
+.hrftr {
+    width: 100%;
+    background-color: rgb(189, 189, 189);
+   
+}
+
+footer{
+    background-color: rgb(31, 31, 31);
+    color: white;
+}
+.crdhedslide {
+    border: 2px solid rgb(167, 167, 167);
+    border-right: hidden;
+    border-left: hidden;
+    border-top: hidden;
+    background-color: inherit;
+}
+
+.onvanslidmoz {
+    font-weight: 600;
+    font-size: 25px;
+}
+
+.slick-prev:before,
+.slick-next:before {
+    font-family: 'slick';
+    font-size: 20px;
+    line-height: 1;
+    opacity: .75;
+    color: rgb(93, 93, 93);
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+
+.slick-slide {
+    margin: 10px
+}
+.navh{
+    background-color: rgb(31, 31, 31)
+}
+.qeymatpaye3 {
+    font-size: 14px;
+    text-align: center;
+
+}
+
+.contentt {
+margin-top: 2%;
+margin-bottom: 2%;
+border-radius: 0.5rem;
+height: auto;
+width: 100%;
+background-color: rgb(250, 250, 250);
+justify-content: center;
+border: 1px solid rgb(235, 235, 235);
+
+
+}
+.qeymatpaye2 {
+    border: 1px solid rgb(56, 56, 56);
+    border-top: hidden;
+    border-right: hidden;
+    border-left: hidden;
+    font-size: 12px;
+    margin-top: 1%;
+    border-radius: 6px;
+    width: 90%;
+    justify-content: center;
+}

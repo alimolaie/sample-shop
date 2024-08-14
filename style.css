@@ -1,0 +1,13 @@
+
+@font-face {
+    font-family: "vazir-Bold-FD-WOL ttf", serif;
+}
+.shabnam-text{
+    font-family: "vazir-Bold-FD-WOL ttf", serif;
+}
+
+body{
+    direction: rtl;
+    text-align: right;
+
+}
